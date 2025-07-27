@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "simple-mcp-server": {
+      "command": "wsl",
+      "args": ["-d", "Ubuntu", "node", "/home/yourUser/someLocation/mcpSample/dist/index.js"]
+    }
+  }
+}
